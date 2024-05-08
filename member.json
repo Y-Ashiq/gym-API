@@ -1,0 +1,29 @@
+[{
+    "id":1 ,
+    "name":"youssef",
+    "nationalID":30003010208835,
+    "phoneNumber":1147526722,
+    "memberShip":{
+        "from": "jan",
+        "to":"mar",
+        "cost" :350
+
+    }
+    ,"status": "active",
+    "trinerID": 1
+
+},{
+    "id":2 ,
+    "name":"youssef",
+    "nationalID":30003010208835,
+    "phoneNumber":1147526722,
+    "memberShip":{
+        "from": "jan",
+        "to":"mar",
+        "cost" :350
+
+    }
+    ,"status": "active",
+    "trinerID": 1
+
+}]
