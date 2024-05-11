@@ -4,9 +4,10 @@
     "name": "sara",
     "nationalID": 30003010208835,
     "phoneNumber": 1147526722,
-    "memberShip": { "from": "mar", "to": "june", "cost": 500 },
+    "memberShip": { "from": "nov", "to": "dec", "cost": 150 },
     "status": "active",
-    "trinerID": 1
+    "trainerID": 2,
+    "deleted": true
   },
   {
     "id": 2,
@@ -14,7 +15,16 @@
     "nationalID": 30003010208835,
     "phoneNumber": 1147526722,
     "memberShip": { "from": "mar", "to": "june", "cost": 500 },
-    "status": "freeze",
-    "trinerID": 2
+    "status": "active",
+    "trainerID": 3
+  },
+  {
+    "id": 3,
+    "name": "sara",
+    "nationalID": 30003010208835,
+    "phoneNumber": 1147526722,
+    "memberShip": { "from": "mar", "to": "june", "cost": 500 },
+    "status": "active",
+    "trainerID": 3
   }
 ]
