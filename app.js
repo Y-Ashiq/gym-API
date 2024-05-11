@@ -17,7 +17,7 @@ app.use(express.json());
 app.route('/members').get(members.getAllmembers).post(members.postMember);
 app.route('/members/:id').get(members.getMember).delete(members.deleteMember).patch(members.patchMember);
 
-app.get('/revenue', members.getRevenue)
+app.get('/revenue', members.getRevenue);
 
 
 //trainers
