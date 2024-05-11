@@ -1,15 +1,20 @@
 [
   {
     "id": 1,
-    "name": "youssef",
+    "name": "sara",
     "nationalID": 30003010208835,
     "phoneNumber": 1147526722,
-    "memberShip": {
-      "from": "jan",
-      "to": "mar",
-      "cost": 350
-    },
+    "memberShip": { "from": "mar", "to": "june", "cost": 500 },
     "status": "active",
     "trinerID": 1
+  },
+  {
+    "id": 2,
+    "name": "sara",
+    "nationalID": 30003010208835,
+    "phoneNumber": 1147526722,
+    "memberShip": { "from": "mar", "to": "june", "cost": 500 },
+    "status": "freeze",
+    "trinerID": 2
   }
 ]
